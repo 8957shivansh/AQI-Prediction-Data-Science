@@ -1,0 +1,8 @@
+python-docx==1.1.2
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
